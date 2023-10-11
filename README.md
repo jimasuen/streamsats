@@ -2,7 +2,7 @@
 Connect your audience to Bitcoin through livestreams.
 
 # Problem
-It's fun watching live streams of your favorite streamers -- they give you value which could be in the form of entertainment, education, or experience. What if you want to give back to your audience in a more powerful way by introducing them to Bitcoin. 
+It's fun watching live streams of your favorite streamers -- they give you value which could be in the form of entertainment, education, or experience. What if you want to give back to your audience in a more powerful way by introducing them to Bitcoin? 
 
 How can streamers incentivize their audience to continue watching their streams? How can streamers appreciate the viewers' time spent on their livestreams? How can streamers do all this without doing "extra work" during the live stream? 
 
